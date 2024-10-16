@@ -23,7 +23,7 @@ You may also see any lint errors in the console.
 <br>
 
 ## Output:
-![](./screenshot/pizza-menu-flow.pnh)
+![](./screenshot/pizza-menu-flow.png)
 
 ![](./screenshot/pizza-menu.png)
 
